@@ -12,7 +12,7 @@ class StatusServices
         const result =
             {
                 message,
-                client
+                storage
             }
        return (result) //отправляем объект
 
